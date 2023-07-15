@@ -2,3 +2,5 @@ This is file2
 
 New line 1
 New line 2
+
+This is new line added in branch dev
